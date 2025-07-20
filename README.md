@@ -13,6 +13,15 @@ A web application that lets you chat with your PDF documents using a local AI mo
 
 ## Screenshots
 
+Here's a look at the Chat with PDF in action:
+
+![Chat with PDF Main Screen 1](https://github.com/crazy-leaf/chatpdf/blob/main/screenshots/Screenshot%202025-07-20%20at%209.44.08%E2%80%AFPM.png)
+
+![Chat with PDF Main Screen 2](https://github.com/crazy-leaf/chatpdf/blob/main/screenshots/Screenshot%202025-07-20%20at%209.47.26%E2%80%AFPM.png)
+
+![Chat with PDF Main Screen 3](https://github.com/crazy-leaf/chatpdf/blob/main/screenshots/Screenshot%202025-07-20%20at%209.50.53%E2%80%AFPM.png)
+
+![Chat with PDF Main Screen 3](https://github.com/crazy-leaf/chatpdf/blob/main/screenshots/Screenshot%202025-07-20%20at%209.52.17%E2%80%AFPM.png)
 
 ## Tech Stack
 
