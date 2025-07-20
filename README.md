@@ -76,7 +76,7 @@ Follow these steps to get the app running on your machine.
 
 1.  Navigate to the `pdfchat` directory:
     ```bash
-    cd frontend
+    cd pdfchat
     ```
 2.  Install dependencies:
     ```bash
